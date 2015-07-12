@@ -4,7 +4,7 @@ import (
 	"os"
 	"io"
 	"io/ioutil"
-	"github.com/shurcooL/go/github_flavored_markdown"
+	"github.com/shurcooL/github_flavored_markdown"
 	"html/template"
 	"log"
 )
